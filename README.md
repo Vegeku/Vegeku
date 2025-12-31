@@ -8,7 +8,7 @@ I’m a software developer driven by one goal: **building software that has a po
 
 ## 🚀 About Me
 
-- 💡 Passionate about creating meaningful, problem-solving software  
+- 💡 Passionate about creating meaningful, world changing software  
 - 🧠 Highly adaptive learner — able to pick up new technologies at an accelerated pace  
 - ⚡ Proactive and self-driven — I actively seek challenges and solutions  
 - 🛠️ Comfortable working across different domains and problem spaces  
